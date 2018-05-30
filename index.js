@@ -5,3 +5,7 @@ function foo() {
 function bar() {
     return "foo";
 }
+
+function dosomething() {
+    return;
+}
